@@ -1,0 +1,2 @@
+# kbeznak_parmatonic
+kbeznak parmatonic is kbeznak parmatonic. Its like a proper noun. There is no meaning to it. It is same as "chair". "Chair" has no meaning, we started calling the structure which had 4 legs, had a surface to sit and rest - as "chair". One day we will start using "kbeznak parmatonic" as day to day word. Just a hypothesis. For now, its just a part of assignment in TAMU CSCE 670.
