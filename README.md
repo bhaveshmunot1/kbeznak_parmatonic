@@ -1,5 +1,13 @@
 ## Welcome to GitHub Pages
 
+What is [kbeznak parmatonic](http://people.tamu.edu/~bmunot/kbeznak-parmatonic/)?
+All you need to know about [kbeznak parmatonic](http://people.tamu.edu/~bmunot/kbeznak-parmatonic/)...
+7 Most Interesting facts about [kbeznak parmatonic](http://people.tamu.edu/~bmunot/kbeznak-parmatonic/)?
+The story behind [kbeznak parmatonic](http://people.tamu.edu/~bmunot/kbeznak-parmatonic/)?
+History of [kbeznak parmatonic](http://people.tamu.edu/~bmunot/kbeznak-parmatonic/)?
+All the information about [kbeznak parmatonic](http://people.tamu.edu/~bmunot/kbeznak-parmatonic/)?
+
+
 You can use the [editor on GitHub](https://github.com/bhaveshmunot1/kbeznak_parmatonic/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
